@@ -21,7 +21,7 @@
 ## 📌 Featured Projects  
 🔹 [Portfolio Website](https://smentor.me/) – My personal portfolio built with **HTML,CSS and JS**  
 🔹 [To-Do App](#) – Task manager app with **JavaScript**  
-🔹 [Landing Page](#) – Responsive landing page using **Tailwind**  
+🔹 [Landing Page](https://github.com/SharmanMahdi/Tailwindcss) – Responsive landing page using **Tailwind**  
 🔹 [Python Mini Projects](#) – Automation with Python  
 
 
