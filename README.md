@@ -1,4 +1,4 @@
-![Banner](my-banner2.png)
+![Banner](my-banner2.PNG)
 # Hi there 👋, I'm Sharmake Mahdi  
 🚀 **Frontend Developer** | HTML • CSS • JavaScript • React.js • Tailwind • Bootstrap • Python  
 
