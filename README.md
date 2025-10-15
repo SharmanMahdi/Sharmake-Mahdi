@@ -33,7 +33,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sharmakemahdi)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://smentor.me)  
 
----
+----
+
+![Profile views](https://komarev.com/ghpvc/?username=SharmanMahdi&color=blue)
+
+ 
+----
 ✨ *"Building frontend experiences that are simple, fast, and user-friendly."*
 
 ✨ *Thanks for visiting my profile! Feel free to check out my repositories and connect.*  
