@@ -1,38 +1,92 @@
-![Banner](my-banner2.PNG)
-# Hi there 👋, I'm Sharmake Mahdi  
-🚀 **Frontend Developer** | HTML • CSS • JavaScript • React.js • Tailwind • Bootstrap • Python  
+<p align="center">
+  <img src="my-banner2.PNG" alt="Banner" width="100%" />
+</p>
 
-## 🌟 About Me  
+<h1 align="center">Hi there 👋, I'm Sharmake Mahdi</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Web+Designer;React+%7C+JavaScript+%7C+Tailwind;Turning+Ideas+Into+Beautiful+Web+Experiences" alt="Typing Animation" />
+</p>
+
+---
+
+## 👨‍💻 About Me  
 - 🎓 Undergraduate in **Computer Information Systems**  
-- 🌱 Currently learning **React.js & Typescript**  
-- 💡 Exploring Modern web technologies and networking with developer's communities 
-- 🎯 Goal: Build **responsive, modern web apps** and grow as a full-stack developer 
+- 🌱 Currently learning **React.js & TypeScript**  
+- 🤝 Engaging with global developer communities  
+- ⚡ Passionate about modern, responsive and user-friendly web applications  
+- 🎯 Aspiring **Full-Stack Developer**  
 
-## 💻 Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,python,git,github,vscode" />
+</p>
+
+---
 
 ## 📌 Featured Projects  
-🔹 [Portfolio Website](https://smentor.me/) – My personal portfolio built with **HTML,CSS and JS**  
-🔹 [To-Do App](#) – Task manager app with **JavaScript**  
-🔹 [Landing Page](https://github.com/SharmanMahdi/Tailwindcss) – Responsive landing page using **Tailwind**  
-🔹 [Python Mini Projects](#) – Automation with Python  
 
+### 🔹 [Portfolio Website](https://smentor.me/)
+Responsive portfolio built with **HTML, CSS, JS**  
 
-## 📊 GitHub Stats
-![Sharmake's GitHub stats](https://github-readme-stats.vercel.app/api?username=SharmanMahdi&show_icons=true&theme=radical&cache_seconds=60)  
+### 🔹 [Landing Page (Tailwind)](https://github.com/SharmanMahdi/Tailwindcss)
+A modern responsive landing page using **Tailwind CSS**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SharmanMahdi&layout=compact&theme=radical&cache_seconds=60)  
+### 🔹 Python Mini Projects  
+Automation + scripting (coming soon)
 
+### 🔹 JavaScript To-Do App  
+A clean and simple task manager (coming soon)
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sharmake-mahdi-9a04b6393) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://smentor.me)  
+---
 
+## 📊 GitHub Analytics
 
-![Profile views](https://komarev.com/ghpvc/?username=SharmanMahdi&color=blue)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SharmanMahdi&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SharmanMahdi&theme=radical&hide_border=true" height="160" />
+</p>
 
- 
-✨ *"Building frontend experiences that are simple, fast, and user-friendly."*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmanMahdi&layout=compact&theme=radical&hide_border=true" height="160" />
+</p>
 
-✨ *Thanks for visiting my profile! Feel free to check out my repositories and connect.*  
+---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SharmanMahdi&theme=radical&row=1&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SharmanMahdi&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharmake-mahdi-9a04b6393">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://smentor.me">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SharmanMahdi&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+<p align="center">✨ <i>"Building frontend experiences that are simple, fast, and user-friendly."</i> ✨</p>
